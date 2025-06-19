@@ -1,0 +1,26 @@
+p {
+    color: brown;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+#yel {
+    color: rgb(255, 0, 0);
+    font-family:fantasy;
+    text-decoration:underline rgb(103, 183, 218);
+    text-decoration-line:underline ;
+}
+.gal {
+    color: darkcyan;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-shadow:1px 1px 1px red;
+}
+.kel {
+    color: rgb(2, 87, 29);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sem {
+    color: chocolate;
+    font-family: fantasy;
+    font-size: 28px;
+}
